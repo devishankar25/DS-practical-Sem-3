@@ -1,3 +1,5 @@
+ // Write a program for Implementation of Graph 
+// traversal(BFS,DFS,Shortest path)
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX_VERTICES 100
